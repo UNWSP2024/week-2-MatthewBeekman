@@ -1,0 +1,11 @@
+Andrew_Age = int(input('Enter Age: '))
+Gavin_Age = int(input('Enter Age: '))
+Daniel_Age = int(input('Enter Age: '))
+Cade_Age = int(input('Enter Age: '))
+Luke_Age = int(input('Enter Age: '))
+Age_Sum = Andrew_Age + Gavin_Age + Daniel_Age + Cade_Age + Luke_Age
+Average_Age = Age_Sum/5
+print(Average_Age)
+# Matthew Beekman
+# 9/10/2024
+# Program 2
