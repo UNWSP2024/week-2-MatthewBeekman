@@ -1,0 +1,4 @@
+print('Matthew Beekman') # name
+print('2606 96th St. East Inver Grove Heights, MN 55077') # address with city, state and zip
+print('763-656-3417') # Phone number
+print('Engineering') # College Major
