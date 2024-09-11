@@ -10,3 +10,6 @@ print("Sales Tax Percent", Sales_tax)
 Total_Tax = Subtotal * Sales_tax
 Total = Subtotal + Total_Tax
 print("Total", Total)
+# Matthew Beekman
+# 9/10/2024
+# Program 3
